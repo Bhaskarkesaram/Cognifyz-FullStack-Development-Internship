@@ -155,10 +155,10 @@ A CRUD-based user management system with database connectivity.
 
 
 🔗 GitHub:
-(Add Link)
+https://github.com/Bhaskarkesaram/Task-5-User-Management-Dashboard.git
 
 🌐 Live Demo:
-(Add Link)
+https://task-5-user-management-dashboard.netlify.app/
 
 ---
 
