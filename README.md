@@ -52,11 +52,21 @@ The internship focused on practical full-stack development concepts including fr
 
 # 📂 Completed Tasks
 
+| Task | Project | Technology |
+|---|---|---|
+| Task 1 | Student Registration Portal | HTML, Express |
+| Task 2 | Form Validation | CSS, JavaScript |
+| Task 3 | Portfolio Website | HTML, CSS |
+| Task 4 | Advanced Registration Portal | JavaScript |
+| Task 5 | User Management Dashboard | MERN Concepts |
+| Task 6 | Authentication System | Node, MongoDB, JWT |
+| Task 7 | Weather API Dashboard | REST API |
+| Task 8 | React Task Dashboard | React.js |
 
 ## ✅ Task 1 - HTML Structure
 
 ### Description
-Created a basic web application structure using HTML templates and server-side rendering concepts.
+Created a basic student registration application demonstrating HTML structure, form handling, and server interaction.
 
 ### Concepts Covered
 
@@ -73,7 +83,7 @@ https://student-registration-portal-l3u5.onrender.com/
 
 ---
 
-## ✅ Task 2 - Inline Styles and Form Validation
+## ✅ Task 2 - Styling and Form Validation
 
 ### Description
 Implemented styling improvements and form validation functionality.
@@ -160,6 +170,9 @@ A CRUD-based user management system with database connectivity.
 - Node.js
 - Express.js
 - MongoDB
+- REST API Development
+- Express Server
+- CRUD API Endpoints
 
 
 🔗 GitHub Repository:
@@ -185,6 +198,8 @@ A secure authentication system implementing database integration and authorizati
 - JWT Authentication
 - Protected Dashboard
 - Logout System
+- Protected API Routes
+- Token Based Authorization
 
 
 ### Tech Stack
@@ -219,6 +234,8 @@ Weather intelligence dashboard using third-party API integration.
 - Rate Limiting
 - Error Handling
 - Dynamic Weather Dashboard
+- Backend API Layer
+- API Request Management
 
 
 ### Tech Stack
@@ -254,6 +271,9 @@ A modern React application using reusable components and state management.
 - Filter Tasks
 - Dashboard Statistics
 - LocalStorage Persistence
+- React Hooks
+- Component Communication
+- Dynamic Rendering
 
 
 ### Tech Stack
