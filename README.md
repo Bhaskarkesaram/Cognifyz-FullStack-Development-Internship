@@ -65,10 +65,12 @@ Created a basic web application structure using HTML templates and server-side r
 - Routing Basics
 
 🔗 GitHub Repository:  
-(https://github.com/Bhaskarkesaram/Task-1-HTML-Structure-and-Basic-Server-Interaction.git)
+https://github.com/Bhaskarkesaram/Task-1-HTML-Structure-and-Basic-Server-Interaction.git
 
 🌐 Live Demo:
+
 https://student-registration-portal-l3u5.onrender.com/
+
 ---
 
 ## ✅ Task 2 - Inline Styles and Form Validation
@@ -86,7 +88,9 @@ Implemented styling improvements and form validation functionality.
 https://github.com/Bhaskarkesaram/Task-2-Inline-Styles-Validation.git
 
 🌐 Live Demo:
+
 https://task-2-inline-styles-validation-41h0.onrender.com/
+
 ---
 
 ## ✅ Task 3 - Portfolio Website
@@ -104,7 +108,9 @@ Developed a responsive personal portfolio website.
 https://github.com/Bhaskarkesaram/Task-3-ADVANCED-CSS.git
 
 🌐 Live Demo:
+
 https://bhaskarkesaram.github.io/Task-3-ADVANCED-CSS/
+
 ---
 
 ## ✅ Task 4 - Interactive Registration Portal
@@ -123,7 +129,9 @@ Created an advanced registration portal with dynamic frontend features.
 https://github.com/Bhaskarkesaram/Task-4---Advanced-Registration-Portal.git
 
 🌐 Live Demo:
+
 https://bhaskarkesaram.github.io/Task-4---Advanced-Registration-Portal/
+
 ---
 
 # ⭐ Advanced Level Projects
@@ -154,10 +162,11 @@ A CRUD-based user management system with database connectivity.
 - MongoDB
 
 
-🔗 GitHub:
+🔗 GitHub Repository:
 https://github.com/Bhaskarkesaram/Task-5-User-Management-Dashboard.git
 
 🌐 Live Demo:
+
 https://task-5-user-management-dashboard.netlify.app/
 
 ---
@@ -188,10 +197,11 @@ A secure authentication system implementing database integration and authorizati
 - JavaScript
 
 
-🔗 GitHub:
+🔗 GitHub Repository:
 https://github.com/Bhaskarkesaram/Task-6-Database-Authentication.git
 
 🌐 Live Demo:
+
 https://database-authentication.netlify.app/
 
 ---
@@ -220,10 +230,11 @@ Weather intelligence dashboard using third-party API integration.
 - JavaScript
 
 
-🔗 GitHub:
+🔗 GitHub Repository:
 https://github.com/Bhaskarkesaram/Task-7-Advanced-API-Integration.git
 
 🌐 Live Demo:
+
 https://weather-intelligence-api-dashboard.netlify.app/
 
 ---
@@ -253,8 +264,8 @@ A modern React application using reusable components and state management.
 - CSS3
 
 
-🔗 GitHub:
-(Add Link)
+🔗 GitHub Repository:
+https://github.com/Bhaskarkesaram/Task-8-React-Dashboard.git
 
 🌐 Live Demo:
 
