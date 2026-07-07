@@ -58,10 +58,12 @@ The internship focused on practical full-stack development concepts including fr
 | Task 2 | Form Validation | CSS, JavaScript |
 | Task 3 | Portfolio Website | HTML, CSS |
 | Task 4 | Advanced Registration Portal | JavaScript |
-| Task 5 | User Management Dashboard | MERN Concepts |
+Task 5 | User Management Dashboard | Node.js, Express, MongoDB
 | Task 6 | Authentication System | Node, MongoDB, JWT |
 | Task 7 | Weather API Dashboard | REST API |
 | Task 8 | React Task Dashboard | React.js |
+
+---
 
 ## ✅ Task 1 - HTML Structure
 
@@ -282,7 +284,8 @@ A modern React application using reusable components and state management.
 - Vite
 - JavaScript
 - CSS3
-
+- React Hooks
+- Component Architecture
 
 🔗 GitHub Repository:
 https://github.com/Bhaskarkesaram/Task-8-React-Dashboard.git
@@ -303,6 +306,7 @@ https://react-tasks-management-dashboard.netlify.app
 - React Component Architecture
 - Deployment Workflow
 - Git Version Control
+- Responsive UI Development
 
 ---
 
