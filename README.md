@@ -189,10 +189,10 @@ A secure authentication system implementing database integration and authorizati
 
 
 🔗 GitHub:
-(Add Link)
+https://github.com/Bhaskarkesaram/Task-6-Database-Authentication.git
 
 🌐 Live Demo:
-(Add Link)
+https://database-authentication.netlify.app/
 
 ---
 
@@ -221,10 +221,10 @@ Weather intelligence dashboard using third-party API integration.
 
 
 🔗 GitHub:
-(Add Link)
+https://github.com/Bhaskarkesaram/Task-7-Advanced-API-Integration.git
 
 🌐 Live Demo:
-(Add Link)
+https://weather-intelligence-api-dashboard.netlify.app/
 
 ---
 
