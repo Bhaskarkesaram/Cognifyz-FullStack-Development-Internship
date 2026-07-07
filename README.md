@@ -68,7 +68,7 @@ Created a basic web application structure using HTML templates and server-side r
 (https://github.com/Bhaskarkesaram/Task-1-HTML-Structure-and-Basic-Server-Interaction.git)
 
 🌐 Live Demo:
-(https://student-registration-portal-l3u5.onrender.com/)
+https://student-registration-portal-l3u5.onrender.com/
 ---
 
 ## ✅ Task 2 - Inline Styles and Form Validation
@@ -101,10 +101,10 @@ Developed a responsive personal portfolio website.
 - Animations
 
 🔗 GitHub Repository:  
-(Add Task 3 GitHub Link)
+https://github.com/Bhaskarkesaram/Task-3-ADVANCED-CSS.git
 
 🌐 Live Demo:
-(Add Link)
+https://bhaskarkesaram.github.io/Task-3-ADVANCED-CSS/
 ---
 
 ## ✅ Task 4 - Interactive Registration Portal
