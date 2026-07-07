@@ -65,8 +65,10 @@ Created a basic web application structure using HTML templates and server-side r
 - Routing Basics
 
 🔗 GitHub Repository:  
-(Add Task 1 GitHub Link)
+(https://github.com/Bhaskarkesaram/Task-1-HTML-Structure-and-Basic-Server-Interaction.git)
 
+🌐 Live Demo:
+student-registration-portal-l3u5.onrender.com
 ---
 
 ## ✅ Task 2 - Inline Styles and Form Validation
@@ -83,6 +85,8 @@ Implemented styling improvements and form validation functionality.
 🔗 GitHub Repository:  
 (Add Task 2 GitHub Link)
 
+🌐 Live Demo:
+(Add Link)
 ---
 
 ## ✅ Task 3 - Portfolio Website
@@ -99,6 +103,8 @@ Developed a responsive personal portfolio website.
 🔗 GitHub Repository:  
 (Add Task 3 GitHub Link)
 
+🌐 Live Demo:
+(Add Link)
 ---
 
 ## ✅ Task 4 - Interactive Registration Portal
@@ -116,6 +122,8 @@ Created an advanced registration portal with dynamic frontend features.
 🔗 GitHub Repository:  
 (Add Task 4 GitHub Link)
 
+🌐 Live Demo:
+(Add Link)
 ---
 
 # ⭐ Advanced Level Projects
