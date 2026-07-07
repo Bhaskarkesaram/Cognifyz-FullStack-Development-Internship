@@ -83,10 +83,10 @@ Implemented styling improvements and form validation functionality.
 - User Input Handling
 
 🔗 GitHub Repository:  
-(Add Task 2 GitHub Link)
+https://github.com/Bhaskarkesaram/Task-2-Inline-Styles-Validation.git
 
 🌐 Live Demo:
-(Add Link)
+https://task-2-inline-styles-validation-41h0.onrender.com/
 ---
 
 ## ✅ Task 3 - Portfolio Website
